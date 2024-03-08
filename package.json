@@ -1,0 +1,12 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "@sentry/node": "^7.103.0",
+    "@sentry/profiling-node": "^7.103.0",
+    "discord.js": "^14.14.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "nodemon": "^3.0.2"
+  }
+}

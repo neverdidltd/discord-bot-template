@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Idea folder
+.idea
+
+# Node stuff
+node_modules
+
+# Custom
+config.json
